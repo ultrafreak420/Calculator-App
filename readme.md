@@ -21,5 +21,5 @@
  ```
  now just run your executable and you'll be set
 
- ## other distros
- sorry idk how to build packages on other distros you can find tutorials online try youtube lol :3
+ ## other Linux distributions
+ sorry, I don't know how to build packages on other Linux distributions. You can also build it on Windows, but you'll need to figure it out. It's not very hard, I believe in you. Find a tutorial online; try YouTube lol :3
